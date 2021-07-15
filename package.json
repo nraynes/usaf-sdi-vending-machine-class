@@ -1,0 +1,11 @@
+{
+  "name": "usaf-sdi-vending-machine-class",
+  "version": "1.0.0",
+  "description": "Vending Machine Class and Jest Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nicholas Raynes",
+  "license": "ISC"
+}
